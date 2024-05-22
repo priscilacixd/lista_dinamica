@@ -19,7 +19,7 @@ O código implementa uma lista dinâmica encadeada, utilizando uma estrutura `ca
 
 1. Compile o código fonte com um compilador C (ex: GCC).
 2. Execute o programa.
-3. Utilize as opções do menu para inserir, remover ou visualizar produtos.
+3. Utilize as opções do menu para inserir, remover e visualize produtos.
 
 ## Observações
 
