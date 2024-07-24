@@ -1,4 +1,4 @@
-//transformar o c�digo para receber uma string no lugar de n�mero inteiro
+//transformar o código para receber uma string no lugar de número inteiro
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
